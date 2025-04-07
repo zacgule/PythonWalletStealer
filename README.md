@@ -3,7 +3,7 @@ Silently loots crypto wallets and browser extensions like a digital pickpocket.
 Steal everything. Leave nothing. Burn the evidence.
 
 ## ☢️ DISCLAIMER
-THIS IS A CRIME. Use it on your own devices  , and for educational/research purposes only. We do not endorse or support any illegal activities here
+THIS IS A CRIME ! Use it on your own devices  , and for educational/research purposes only. We do not endorse or support any illegal activities here
 
 # 🔪 Features
 ## Process Killer: 
